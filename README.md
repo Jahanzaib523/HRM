@@ -1,3 +1,5 @@
+You can find the source code files in the Test folder!
+
 HR process “Assign Leave” - User Stories
 
 ------  Critical User Stories ----------
